@@ -39,7 +39,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">Laravel 5.2</div>
-				<div class="title">version3</div>
+				<div class="title">version4.1</div>
             </div>
         </div>
     </body>
